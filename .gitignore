@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+env/
+venv/
+
+# IDEs
+.vscode/
+.idea/
+
+# Byte-compiled / logs
+*.log
+*.sqlite3
+
+# macOS
+.DS_Store
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Secrets
+.env
+.credentials
+
+# Ignore outputs
+*.docx
+*.md
